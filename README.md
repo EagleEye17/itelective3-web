@@ -17,3 +17,10 @@ The system has the following modules:
   > * Add Student Attendance
   > * Modify Student Attendance
   > * Delete Student Attendance
+* View Student Attendance 
+* View Student Attendance by date
+* View class attendance
+* Change password
+* Add user. Which has two sub-module / functions that is comprised of:
+  > * Add Faculty
+  > * Add Student
