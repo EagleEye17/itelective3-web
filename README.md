@@ -7,4 +7,4 @@
 * Node.js
 
 ## System
-The system is an Attendance Monitoring System.
+The system is an Attendance Monitoring System built using the MEVN (MongoDB-Express JS-Vue JS-Node.js) stack. This system is tasked with recording a students attendance with the ability to read, edit, and delete the attendance records. 
