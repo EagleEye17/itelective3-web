@@ -2,14 +2,14 @@
 
 ## Technologies used
 <p align="center">
-<width=300 height=200 src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
-<width=465 height=141 src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
-<width=300 height=200 src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
-<width=300 height=200 src=https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg>
+<img width=300 height=150 src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+<img width=465 height=150 src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+<img width=300 height=150 src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+<img width=300 height=150 src=https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg>
 </p>
 
 ## System
-The system is an Attendance Monitoring System built using the MEVN (MongoDB-Express.js-VueJS-Node.js) stack. This system is tasked with recording a students attendance with the ability to read, edit, and delete the attendance records. 
+<p> The system is an Attendance Monitoring System built using the MEVN (MongoDB-Express.js-VueJS-Node.js) web development stack. This system is tasked with recording a students attendance with the ability to read, edit, and delete the attendance records. </p>
 
 ## Sub Modules
 The system has the following modules:
