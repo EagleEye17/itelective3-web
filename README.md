@@ -1,4 +1,6 @@
-## Department of Environment and Natural Resources - Region VI
+# Department of Environment and Natural Resources - Region VI
+
+## Technologies used
 * MongoDB
 * ExpressJS
 * Vue JS
