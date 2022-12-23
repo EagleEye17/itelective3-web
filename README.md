@@ -1,4 +1,4 @@
-# Department of Environment and Natural Resources - Region VI ![Department of Environment and Natural Resources - Region VI] (https://r6.denr.gov.ph/images/R-CAR/R6/Regional_MastheadR6.jpg)
+# ![Department of Environment and Natural Resources - Region VI] (https://r6.denr.gov.ph/images/R-CAR/R6/Regional_MastheadR6.jpg)
 
 ## Technologies used
 * ![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg)
