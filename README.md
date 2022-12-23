@@ -2,8 +2,8 @@
 
 ## Technologies used
 * MongoDB
-* ExpressJS
-* Vue JS
+* Express.js
+* VueJS
 * Node.js
 
 ## System
