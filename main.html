@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="m-3">
+    <div class="flex flex-col items-center">
+        <div class="p-5 w-full max-w-sm bg-slate-100 border border-gray-300 rounded shadow">
+            <div class="flex justify-end px-4 pt-4">
+                <button id="dropdownButton" data-dropdown-toggle="dropdown" class="inline-block text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-1.5" type="button">
+                    <span class="sr-only">Open dropdown</span>
+                    <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z"></path></svg>
+                </button>
+                <!-- Dropdown menu -->
+            </div>
+            <div class="flex flex-col items-center">
+                <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="\assets\picture-1.jpg"/>
+                <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-black">Reymar Rebote</h5>
+                <span class="text-sm text-gray-500 dark:text-gray-400">BS Information Systems - 4A</span>
+                <div class="grid grid-cols-3 gap-4 mt-3">
+                    <div>Projects</div>
+                    <div>Following</div>
+                    <div>Followers</div>
+                </div>
+                <div class="grid grid-cols-3 gap-20 mt-3">
+                        <div class="font-medium text-xl">3</div>
+                        <div class="font-medium text-xl">5</div>
+                        <div class="font-medium text-xl">5</div>
+                </div>
+                <blockquote>
+                    <p class="text-sm text-center font-medium inline-block align-middle mt-3 mb-3">
+                        Hello everyone, this is a demonstration of how to make a user profile card using Tailwind CSS.
+                        Done in the shortest time possible. Which was done just today because cramming has become a weird part of my skills.
+                    </p>
+                </blockquote>
+                <div class="flex mt-4 space-x-3 md:mt-6">
+                    <a href="#" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-teal-500 rounded-lg hover:bg-teal-700 focus:ring-4 focus:outline-none focus:ring-teal-500 dark:bg-teal-500 dark:hover:bg-teal-700 dark:focus:ring-teal-800">View Profile</a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
